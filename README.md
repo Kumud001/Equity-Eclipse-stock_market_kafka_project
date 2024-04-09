@@ -1,4 +1,4 @@
-# stock_market_kafka_project
+
 # Stock Market Real-Time Data Engineering Project
 
 ## Introduction
@@ -52,7 +52,7 @@ The project architecture integrates several key components to facilitate the col
 
 3. **Python Environment Setup**:
    - Ensure Python 3.x is installed.
-   - Install required Python libraries: `pip install -r requirements.txt` (You should create this file based on your project's dependencies).
+   - Install required Python libraries
 
 ### Running the Project
 
